@@ -46,7 +46,7 @@ import VueBox from '@/components/shared/VueBox'
 import firebase from 'firebase'
 
 const firebaseApp = firebase.initializeApp({
-  apiKey: 'AIzaSyASz5KM7KXNFasDYMa4Z8HYb4wdTrp2tM4',
+  apiKey: '------',
   authDomain: 'openweb-4da57.firebaseapp.com',
   databaseURL: 'https://openweb-4da57.firebaseio.com',
   projectId: 'openweb-4da57',
